@@ -1,1 +1,1 @@
-# Python-Project-1-Diwali-Sales-Analysis
+# Python-Project-1-Trade-Analysis
